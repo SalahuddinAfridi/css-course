@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    margin: 100px auto 0px auto;
+    width: 800px;
+}
+.css{
+    width: 800px;
+    float: left;
+}
+body{
+    font-family: arial;
+}
+h1{
+    font-size: 50px;
+    color: red;
+    text-transform: capitalize ;
+    text-shadow: 2px 2px 4px gray;
+}
+p.First{
+    font-size: 10px;
+    color: green;
+    text-align: justify;
+}
+.css img{
+    width: 300px;
+    float: left;
+    padding: 10px;
+}
+p.second{
+    color:purple;
+    letter-spacing: 5px;
+    text-align: right;
+}
+h2{
+    color: blue;
+    letter-spacing: 3px;
+    text-align: right;
+}
+a{
+    text-decoration:none ;
+
+}

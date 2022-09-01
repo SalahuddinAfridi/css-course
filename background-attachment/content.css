@@ -1,0 +1,30 @@
+body{
+    background-image: rgb(100,100,100);
+}
+.box{
+    width: 1000px;
+    height: 800px;
+    margin: 100px auto 0px auto;
+    border: solid red;
+    color:brown;
+    overflow: auto;
+    background-image: url(/images/river.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+
+
+
+
+}
+h1,p{
+    margin: 25px 300px;
+    float: left;
+    font-family: tahoma;
+}
+h1{
+    font-size: 70px;
+}
+p{
+    font-size: 30px;
+}

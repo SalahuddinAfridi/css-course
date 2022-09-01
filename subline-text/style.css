@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: tahoma;
+    padding: 20px;
+}
+h1{
+    color: green;
+    background-color: yellow;
+}

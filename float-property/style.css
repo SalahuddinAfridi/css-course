@@ -1,0 +1,28 @@
+body{
+    font-family: tahoma;
+}
+div{
+   
+    float: left;
+    
+ 
+}
+.ione, .itwo, .ithree, .ifour{
+    width: 300px;
+}
+.ione img{
+    width: 209px;
+    height: 140px;
+}
+.itwo img{
+    width: 209px;
+    height: 140px;
+}
+.ithree img{
+    width: 209px;
+    height:140px ;
+}
+.ifour img{
+    width: 209px;
+    height: 140px;
+}

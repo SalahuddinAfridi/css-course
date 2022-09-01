@@ -1,0 +1,19 @@
+body{
+    font-size: 25px;
+
+}
+.css{
+    width: 900px;
+    margin: 50px auto 0px auto;
+
+}
+.css article{
+    width:430px;
+    float: left;
+    padding: 10px;
+}
+.css img{
+    width: 50%;
+    float: left;
+
+}

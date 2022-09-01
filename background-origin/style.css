@@ -1,0 +1,30 @@
+body{
+    background-image: url("/images/nature.jpg");
+    background-size: cover;
+}
+
+
+.box{
+    width: 600px;
+    height: 400px;
+    margin: 50px auto;
+    color:yellow;
+    border: 40px dotted #ff0;
+    background-color: rgba(0,0,0,.5);
+    padding: 40px;
+    background-image:url("/images/forest.jpg") ;
+    background-size: cover;
+    background-origin: content-box;
+}
+.bx p{
+    margin: 20px 0px;
+    float: left;
+    text-shadow: 2px 4px;
+    font-family: tohoma;
+}
+.box h1{
+    font-size: 60px;
+}
+.box o{
+    font-size: 30px;
+}

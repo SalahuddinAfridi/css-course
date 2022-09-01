@@ -1,0 +1,23 @@
+.box{
+    width: 640px;
+    height: 400px;
+    margin: 50px auto;
+    color: yellow;
+    border: 40px dotted yellow;
+    padding: 40px;
+    background-color: red;
+    background-clip: content-box ;
+}   
+.box p{
+    margin: 20px 0px 0px 0px;
+    float: left;
+    font-family: tahoma;
+    color: yellow;
+}
+.box h1{
+    font-size: 55px;
+    font-family: tohoma;
+}
+.box p{
+    font-size: 15px;
+}

@@ -1,0 +1,8 @@
+body{
+    font-family: tahoma;
+    font-size: 36px;
+    padding: 50px;
+}
+p.two{
+    visibility: collapse;
+}

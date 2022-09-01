@@ -1,0 +1,16 @@
+body{
+    font-size: 24px;
+
+}
+.css{
+    margin: 20px auto 0px auto;
+    min-width: 360px;
+    max-width: 960px;
+}
+.css img{
+    width: 100%;
+}
+.css article{
+    width: 100%;
+    padding: 10px;
+}

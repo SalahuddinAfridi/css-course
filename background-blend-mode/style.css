@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 100vw;
+    height: 100vh;
+    background: url("/images/nature.jpg"),url("/images/green.jpeg") ,linear-gradient(blue,yellow,yellow);
+    background-size: cover;
+    background-blend-mode: multiply;
+}

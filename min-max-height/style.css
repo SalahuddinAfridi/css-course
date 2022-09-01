@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 24px;
+}
+.css{
+    margin: 50px auto 0px auto;
+    width: 600px;
+}
+.css img{
+    width: 600px;
+}
+.css article{
+    width: 550px;
+    border: 5px solid blue;
+    margin: 20px 0px 0px 0px;
+    padding: 20px;
+    min-height: 150px;
+    max-height: 300px;
+    overflow: scroll;
+}

@@ -1,0 +1,23 @@
+body{
+    font-family: tahoma;
+}
+div{
+    float: left;
+    margin: 25px;
+}
+div.text{
+    width: 250px;
+    height: 300px;
+    border: 10px solid red;
+    overflow-y:hidden;
+}
+div.photo{
+    width: 250px;
+    height: 300px;
+    border: 10px solid red;
+    overflow-y: hidden;
+}
+div.photo img{
+    opacity: .8;
+    width: 350px;
+}

@@ -1,0 +1,16 @@
+body{
+    font-family: tahoma;
+    font-size: 24px;
+}
+div.box{
+    border: 5px solid red;
+    width: 700px;
+    height: 600px;
+    overflow: auto;     
+}
+div.box img{
+    position: absolute;
+    width: 300px;
+    left: 200px;
+    top: 200px;
+}

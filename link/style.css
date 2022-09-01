@@ -1,0 +1,26 @@
+body{
+    font-family: tahoma;
+    font-size: 60px;
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    background-color: rgba(225,0,0,.5);
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-top: 2px;
+}
+a:link{
+    color:green;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color:white;
+    background-color: red;
+}
+a:active{
+    color: yellow;
+}

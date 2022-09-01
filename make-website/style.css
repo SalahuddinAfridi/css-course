@@ -1,0 +1,41 @@
+*{margin: 0;padding: 0;}
+body{
+    font-size: 24px;
+}
+.wrapper{
+    margin: 0px auto;
+    width: 500px;
+}
+.css{
+    width: 500px;
+    float: left;
+}
+img{
+    width: 800px;
+    margin: 5px 0px;
+    padding: 5px 0px;
+    border-top: 2px solid green;
+    border-bottom: 2px solid black ;
+}
+p.logo{
+    width: 800px;
+    text-align: center;
+    background-color: yellow;
+    float: left;
+    padding: 10px 0px;
+    font-size: 100px;
+    font-family: 'Shadows Into Light';
+}
+h1{
+    float: left;
+    color: green;
+    width: 100%;
+    font-size: 2em;
+    font-family: 'Shadows Into Light', cursive;
+}
+.para{
+    width: 500px;
+    float: left;
+    font-family: 'Shadows Into Light';
+}
+

@@ -1,0 +1,28 @@
+body{
+    font-family: tohama;
+    font-size: 30px;
+    text-align: center;
+}
+div{
+    width: 43%;
+    float: left;
+    height: 200ps;
+    margin: 20px;
+    border: 2px solid green;
+}
+div.one{
+    border: 3px solid red;
+    cursor: no-drop;
+}
+div.two{
+    border: 3px solid yellow;
+    cursor: wait;
+}
+div.three{
+    border: 3px solid blue;
+    cursor: progress;
+}
+div.four{
+    border: 3px solid pink;
+    cursor: zoom-in;
+}

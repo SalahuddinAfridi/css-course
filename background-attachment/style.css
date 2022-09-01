@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(100,100,100);
+    color:red;
+    background-image: url(/images/river.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    
+}
+h1,p{
+    margin: 25px 300px;
+    float: left;
+    font-family: tahoma;
+}
+h1{
+    font-size: 70px;
+}
+p{
+    font-size: 30px;
+}

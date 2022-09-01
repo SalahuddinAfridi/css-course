@@ -1,0 +1,13 @@
+.box{
+   width: 800px;
+   margin: 50px;
+   border:2px solid red;
+   padding: 20px;
+}
+.box tr, th,td{
+    border: 2px solid green;
+    text-align: center;
+}
+.box tr{
+    border: 2px solid green;
+}

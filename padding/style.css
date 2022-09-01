@@ -1,0 +1,41 @@
+@charset "utf-8";
+*{margin: 0; padding: 0;
+}
+body{
+    font-size: 25px;
+}
+.css{
+    height: 500px;
+    width: 500px;
+    margin: 40px auto;
+    position: relative;
+}
+.css img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 25px;
+    width:440px;
+    border: 5px solid red;
+    border-radius: 20px;
+    padding: 5px;
+   
+    
+
+}
+article{
+    margin: 25px;
+    padding: 25px;
+    
+}
+.para{
+    position: absolute;
+    top: 280px;
+    left: 30px;
+    width: 420px;
+    outline: 5px solid yellow;
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 20px;
+
+}

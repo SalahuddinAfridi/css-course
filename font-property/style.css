@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    margin: 100px auto 0px auto;
+    width: 800px;
+}
+.css{
+    width: 800px;
+    float: left;
+    outline: 1px solid gray;
+}
+body{
+}
+h1{
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    font-family:Gotham, "Helevetica Neue", Helvetica,Arial "sans-serif";
+}
+p.First{
+    font-size: 10px;
+    text-align: justify;
+    margin-top: 25px;
+}
+.css img{ 
+    float:left ;
+    width: 300px;
+   
+}
+p.second{
+    color: red;
+    letter-spacing:5px ;
+    text-align: right;
+}
+h2{
+    color: green;
+    letter-spacing: 3px;
+    text-align: right;
+}
+a{
+    text-decoration:none ;
+
+}
